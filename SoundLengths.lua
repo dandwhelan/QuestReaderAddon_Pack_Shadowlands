@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_Shadowlands = {
+SpeakStoneSoundLengths_Pack_Shadowlands = {
     ["41774_description.ogg"] = 28.77,
     ["41981_description.ogg"] = 21.90,
     ["42143_description.ogg"] = 17.57,
