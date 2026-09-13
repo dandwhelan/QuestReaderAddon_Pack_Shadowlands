@@ -1,5 +1,6 @@
 ## Interface: 110207, 120000, 120001, 120100
 ## X-Interface: 110207, 120000, 120001, 120100
+## X-Wago-ID: j6jm1mNR
 ## Title: SpeakStone Narration - Shadowlands Voices
 ## Notes: Shadowlands quest audio for SpeakStone Narration. Requires SpeakStone_Main.
 ## Author: clhammer weirdautomation@gmail.com, Paratus
